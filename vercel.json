@@ -3,7 +3,7 @@
   ],
   "functions": {
     "api/try1.mjs": {
-      "maxDuration": 100
+      "maxDuration": 60
     }
   }
 }
