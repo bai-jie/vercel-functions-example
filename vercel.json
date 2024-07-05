@@ -2,7 +2,7 @@
   "crons": [
   ],
   "functions": {
-    "api/try1.ts": {
+    "api/try1.mjs": {
       "maxDuration": 100
     }
   }
