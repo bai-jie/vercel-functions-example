@@ -1,0 +1,9 @@
+{
+  "crons": [
+  ],
+  "functions": {
+    "api/try1.ts": {
+      "maxDuration": 100
+    }
+  }
+}
