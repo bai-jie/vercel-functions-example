@@ -4,6 +4,9 @@
   "functions": {
     "api/try1.mjs": {
       "maxDuration": 60
+    },
+    "api/try2.mjs": {
+      "maxDuration": 60
     }
   }
 }
